@@ -27,7 +27,7 @@ body {
 
 header {
     background-image: linear-gradient(to top, var(--color01),var(--color04));
-    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.315);
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.253);
     max-width: 1050px;
     min-width: 300px;
     padding-top: 15px;
@@ -168,7 +168,7 @@ footer {
 }
 
 footer p {
-    padding-top: 10px;
+    padding-top: 20px;
     color:black;
     font-family: var(--font-padrao);
     font-size: bold;
@@ -178,5 +178,5 @@ footer p {
 footer nav {
     padding-bottom: 20px;
     text-decoration: none;
-
 }
+
